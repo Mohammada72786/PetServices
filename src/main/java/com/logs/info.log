@@ -1,0 +1,51 @@
+2022-10-06 10:51:09,644 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 10:51:36,156 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:46,457 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:51,019 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:56,236 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:09:57,091 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:10:09,586 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:13:39,987 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:00,915 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:08,529 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:20,896 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:15:55,174 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:15:57,524 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:16:00,959 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:16:07,604 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:17:43,230 INFO c.a.u.PetLogger [main] Invalid Inputjava.base/java.lang.Thread.getStackTrace(Thread.java:1610)
+2022-10-06 11:17:49,791 INFO c.a.u.PetLogger [main] Invalid Inputjava.base/java.lang.Thread.getStackTrace(Thread.java:1610)
+2022-10-06 11:21:24,314 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 11:21:26,661 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 11:21:30,592 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 12:37:29,759 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:38:04,948 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:41:04,603 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:41:07,503 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:42:21,180 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:36,375 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:45,069 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:54,967 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-06 13:02:11,450 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:16:51,719 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 13:22:35,287 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:22:47,812 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:23:06,499 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 13:25:19,432 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 15:36:08,009 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 15:36:36,518 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 15:36:40,190 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 17:24:45,377 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-06 17:38:36,538 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 17:48:25,246 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:48:09,640 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:49:00,098 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:49:14,848 INFO c.a.u.PetLogger [main] Invalid input
+2022-10-06 19:59:38,077 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:11:22,883 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-07 10:35:50,892 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:38:15,183 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:43:12,592 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:44:05,614 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 14:49:44,225 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 14:49:52,653 INFO c.a.u.PetLogger [main] Invalid Input
